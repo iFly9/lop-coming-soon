@@ -12,7 +12,7 @@ function App() {
 
       <section className="hero">
         <div className="brand">
-          <img className="logo lop" src="/logos/logo.png" alt="LOP logo" />
+          <img className="logo lop" src="/logos/logo.jpeg" alt="LOP logo" />
 
         </div>
         <div className="rule"><span>✦</span></div>
