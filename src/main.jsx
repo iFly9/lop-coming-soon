@@ -27,7 +27,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        <span>LOP</span>
+        <span>E-LOP</span>
         <span className="footer-center">COMING SOON <b>✳</b></span>
         <span>© {new Date().getFullYear()}</span>
       </footer>
